@@ -27,7 +27,7 @@ Gosto de aprender na prática, transformar ideias em projetos e evoluir constant
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,python,css,js,github,git" />
 </p>
 
 ---
