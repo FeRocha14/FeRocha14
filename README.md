@@ -1,7 +1,9 @@
 # Olá, eu sou o Felipe 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**
+
 💻 Focado em **Desenvolvimento de Software**
+
 🌎 Experiência acadêmica em **Engenharia Informática em Portugal**
 
 Gosto de aprender na prática, transformar ideias em projetos e evoluir constantemente como desenvolvedor.
