@@ -18,17 +18,14 @@ Gosto de aprender na prática, transformar ideias em projetos e evoluir constant
 </a>
 <a href="https://www.instagram.com/sxnches_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://open.spotify.com/user/tf2yegnkhv553l3t0ddqm278e">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
+
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
 ---
