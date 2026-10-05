@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe 
+# Felipe 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**
 
